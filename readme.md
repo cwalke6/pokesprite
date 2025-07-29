@@ -28,6 +28,8 @@ Previous generations of games (Gen 1–2 and Gen 3–4) had their own collection
 
 See the [Pokémon sprite overview page](https://msikma.github.io/pokesprite/overview/dex-gen8.html) for a full list of sprites.
 
+Gen9 sprites come from [this](https://github.com/bamq/pokemon-sprites) repo
+
 ## Data files
 
 Developers who want to use these sprites programmatically might want to look at the `/data/pokemon.json` and `/data/item-map.json` files; the former contains a list of all Pokémon and their associated sprites, and the latter links all sprites in the repo to their internal IDs used in-game.
